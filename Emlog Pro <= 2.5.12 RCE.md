@@ -13,7 +13,7 @@ Locally create a folder named 1 with the contents of the malicious file header.p
 
 <img width="609" alt="image" src="https://github.com/user-attachments/assets/002eac88-d3e4-44a7-807b-ffc66ddb2838" />
 
-Upload the compressed packet
+Upload the compressed packet:
 
 <img width="1497" alt="image" src="https://github.com/user-attachments/assets/e0cebf09-7218-43be-be31-dca8c63cf9a0" />
 
