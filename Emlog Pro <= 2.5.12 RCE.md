@@ -24,8 +24,11 @@ After successful upload, as follows:
 Try to access the address: http://10.211.55.4:82/content/templates/1/header.php
 
 <img width="1512" alt="image" src="https://github.com/user-attachments/assets/c824feef-a3ca-48ec-88fd-32cdca122711" />
+
 # Code Analysis
+
 `/admin/template.php`
+
 <img width="948" alt="image" src="https://github.com/user-attachments/assets/b62c11b0-3880-45d1-a00d-e4064e3ca988" />
 
 The uploaded file will be processed by calling the emUnZip function, which will be followed into the function:
